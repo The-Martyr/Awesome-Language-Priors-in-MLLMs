@@ -6,7 +6,7 @@ Language priors in Multimodal Large Language Models (MLLMs) refer to the inheren
 
 #### :star: If you find this list useful, please star it!
 
-## Paper List
+## Paper List (Updating...)
 
 [VLind-Bench: Measuring Language Priors in Large Vision-Language Models](https://arxiv.org/abs/2406.08702)
 
