@@ -4,7 +4,7 @@ This is a repository for organizing papres related to language priors of Multimo
 
 Language priors in Multimodal Large Language Models (MLLMs) refer to the inherent biases or preconceptions embedded in the language model component of an MLLM. These priors arise from the text data on which the language model was trained, influencing how the model interprets and generates language in conjunction with other modalities (e.g., images, audio). They can affect the model's predictions, leading to potential biases or expectations about the relationships between different types of data in multimodal contexts.
 
-#### If you find this list useful, please :star it!
+#### :star: If you find this list useful, please star it!
 
 ## Paper List
 
