@@ -15,3 +15,9 @@ Language priors in Multimodal Large Language Models (MLLMs) refer to the inheren
 [Mitigating Object Hallucinations in Large Vision-Language Models through Visual Contrastive Decoding](https://arxiv.org/abs/2311.16922)
 
 [Mitigating Hallucinations in Large Vision-Language Models with Instruction Contrastive Decoding](https://arxiv.org/abs/2403.18715)
+
+[Context versus Prior Knowledge in Language Models](https://arxiv.org/abs/2404.04633)
+
+[Eliciting the Priors of Large Language Models using Iterated In-Context Learning](https://arxiv.org/abs/2406.01860)
+
+[The Strong Pull of Prior Knowledge in Large Language Models and Its Impact on Emotion Recognition](https://arxiv.org/abs/2403.17125)
