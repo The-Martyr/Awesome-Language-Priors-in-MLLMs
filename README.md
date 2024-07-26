@@ -12,6 +12,16 @@ Language priors in Multimodal Large Language Models (MLLMs) refer to the inheren
 
 (13 Jun 2024) [VLind-Bench: Measuring Language Priors in Large Vision-Language Models](https://arxiv.org/abs/2406.08702)
 
+(23 May 2023) [IfQA: A Dataset for Open-domain Question Answering under Counterfactual Presuppositions](https://arxiv.org/abs/2305.14010)
+
+(13 Mar 2023) [Breaking Common Sense: WHOOPS! A Vision-and-Language Benchmark of Synthetic and Compositional Images](https://arxiv.org/abs/2303.07274)
+
+(30 Oct 2023) [ROME: Evaluating Pre-trained Vision-Language Models on Reasoning beyond Visual Common Sense](https://arxiv.org/abs/2310.19301)
+
+### Evaluation
+
+(5 Jul 2023) [Reasoning or Reciting? Exploring the Capabilities and Limitations of Language Models Through Counterfactual Tasks](https://arxiv.org/abs/2307.02477)
+
 ### Mitigate
 
 (6 Apr 2024) [Context versus Prior Knowledge in Language Models](https://arxiv.org/abs/2404.04633)
