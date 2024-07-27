@@ -24,6 +24,8 @@ Language priors in Multimodal Large Language Models (MLLMs) refer to the inheren
 
 ### Mitigate
 
+(19 Jun 2024)[VACoDe: Visual Augmented Contrastive Decoding](https://openreview.net/forum?id=Li4mQaI1H4)
+
 (6 Apr 2024) [Context versus Prior Knowledge in Language Models](https://arxiv.org/abs/2404.04633)
 
 (27 Mar 2024) [Mitigating Hallucinations in Large Vision-Language Models with Instruction Contrastive Decoding](https://arxiv.org/abs/2403.18715)
