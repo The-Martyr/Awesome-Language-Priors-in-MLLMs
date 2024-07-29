@@ -34,6 +34,8 @@ Language priors in Multimodal Large Language Models (MLLMs) refer to the inheren
 
 (28 Nov 2023) [Mitigating Object Hallucinations in Large Vision-Language Models through Visual Contrastive Decoding](https://arxiv.org/abs/2311.16922)
 
+(26 Jun 2023) [Mitigating Hallucination in Large Multi-Modal Models via Robust Instruction Tuning](https://arxiv.org/abs/2306.14565)
+
 ### Related Works
 
 (4 Jun 2024) [Eliciting the Priors of Large Language Models using Iterated In-Context Learning](https://arxiv.org/abs/2406.01860)
