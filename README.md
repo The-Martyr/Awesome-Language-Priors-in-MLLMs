@@ -39,3 +39,5 @@ Language priors in Multimodal Large Language Models (MLLMs) refer to the inheren
 (4 Jun 2024) [Eliciting the Priors of Large Language Models using Iterated In-Context Learning](https://arxiv.org/abs/2406.01860)
 
 (25 Mar 2024) [The Strong Pull of Prior Knowledge in Large Language Models and Its Impact on Emotion Recognition](https://arxiv.org/abs/2403.17125)
+
+(11 August 2023) [Robust visual question answering via polarity enhancement and contrast](https://www.sciencedirect.com/science/article/pii/S0893608024004842)
