@@ -41,3 +41,5 @@ Language priors in Multimodal Large Language Models (MLLMs) refer to the inheren
 (25 Mar 2024) [The Strong Pull of Prior Knowledge in Large Language Models and Its Impact on Emotion Recognition](https://arxiv.org/abs/2403.17125)
 
 (11 August 2023) [Robust visual question answering via polarity enhancement and contrast](https://www.sciencedirect.com/science/article/pii/S0893608024004842)
+
+(1 Dec 2017)[Don't Just Assume; Look and Answer: Overcoming Priors for Visual Question Answering](https://arxiv.org/abs/1712.00377)
