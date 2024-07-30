@@ -12,6 +12,18 @@ Language priors in Multimodal Large Language Models (MLLMs) refer to the inheren
 
 (16 Nov 2015) [Yin and Yang: Balancing and Answering Binary Visual Questions](https://arxiv.org/abs/1511.05099)
 
+### Previous Study in VQA
+
+(CVPR 2017) Making the V in VQA Matter: Elevating the Role of Image Understanding in Visual Question Answering
+(CVPR 2018) Don’t Just Assume; Look and Answer: Overcoming Priors for Visual Question Answering
+(NIPS 2018) Overcoming Language Priors in Visual Question Answering with Adversarial Regularization
+(SIGIR 2019) Quantifying and Alleviating the Language Prior Problem in Visual Question Answering
+(CVPR 2021) Counterfactual VQA: A Cause-Effect Look at Language Bias
+(TIP 2021) Loss Re-Scaling VQA: Revisiting the Language Prior Problem From a Class-Imbalance View
+(EMNLP 2022) Language Prior Is Not the Only Shortcut: A Benchmark for Shortcut Learning in VQA
+(COLING 2022) Overcoming Language Priors in Visual Question Answering via Distinguishing Superficially Similar Instances
+(JMLR 2023) Overcoming Language Priors for Visual Question Answering via Loss Rebalancing Label and Global Context
+
 ### Benchmark
 
 (13 Jun 2024) [VLind-Bench: Measuring Language Priors in Large Vision-Language Models](https://arxiv.org/abs/2406.08702)
