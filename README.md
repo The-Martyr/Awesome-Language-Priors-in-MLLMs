@@ -8,6 +8,10 @@ Language priors in Multimodal Large Language Models (MLLMs) refer to the inheren
 
 ## Paper List (Updating...)
 
+### First Paper of Language Priors in Multimodality
+
+(16 Nov 2015) [Yin and Yang: Balancing and Answering Binary Visual Questions](https://arxiv.org/abs/1511.05099)
+
 ### Benchmark
 
 (13 Jun 2024) [VLind-Bench: Measuring Language Priors in Large Vision-Language Models](https://arxiv.org/abs/2406.08702)
