@@ -32,7 +32,7 @@ Language priors in Multimodal Large Language Models (MLLMs) refer to the inheren
 
 (JMLR 2023) Overcoming Language Priors for Visual Question Answering via Loss Rebalancing Label and Global Context
 
-### Benchmark
+### Benchmark & Dataset
 
 (13 Jun 2024) [VLind-Bench: Measuring Language Priors in Large Vision-Language Models](https://arxiv.org/abs/2406.08702)
 
@@ -48,7 +48,11 @@ Language priors in Multimodal Large Language Models (MLLMs) refer to the inheren
 
 ### Mitigate
 
-(19 Jun 2024)[VACoDe: Visual Augmented Contrastive Decoding](https://openreview.net/forum?id=Li4mQaI1H4)
+(24 Jun 2024) [Cambrian-1: A Fully Open, Vision-Centric Exploration of Multimodal LLMs](https://arxiv.org/abs/2406.16860)
+
+(19 Jun 2024) [VACoDe: Visual Augmented Contrastive Decoding](https://openreview.net/forum?id=Li4mQaI1H4)
+
+(17 Jun 2024) [mDPO: Conditional Preference Optimization for Multimodal Large Language Models](https://arxiv.org/abs/2406.11839)
 
 (6 Apr 2024) [Context versus Prior Knowledge in Language Models](https://arxiv.org/abs/2404.04633)
 
