@@ -48,6 +48,8 @@ Language priors in Multimodal Large Language Models (MLLMs) refer to the inheren
 
 ### Mitigate
 
+(7 Oct 2024) [Mitigating Modality Prior-Induced Hallucinations in Multimodal Large Language Models via Deciphering Attention Causality](https://arxiv.org/abs/2410.04780)
+
 (24 Jun 2024) [Cambrian-1: A Fully Open, Vision-Centric Exploration of Multimodal LLMs](https://arxiv.org/abs/2406.16860)
 
 (19 Jun 2024) [VACoDe: Visual Augmented Contrastive Decoding](https://openreview.net/forum?id=Li4mQaI1H4)
