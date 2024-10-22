@@ -22,7 +22,7 @@ Modality priors in multimodal large language models (MLLMs) include visual prior
 
 (5 Jul 2023) [Reasoning or Reciting? Exploring the Capabilities and Limitations of Language Models Through Counterfactual Tasks](https://arxiv.org/abs/2307.02477)
 
-### Mitigate
+### Mitigation
 
 (7 Oct 2024) [Mitigating Modality Prior-Induced Hallucinations in Multimodal Large Language Models via Deciphering Attention Causality](https://arxiv.org/abs/2410.04780)
 
