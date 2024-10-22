@@ -1,8 +1,8 @@
-# Awesome-Language-Priors-in-MLLMs
+# Awesome-Modality-Priors-in-MLLMs
 
-This is a repository for organizing papres related to language priors of Multimodal Large Language Models (MLLM).
+This is a repository for organizing papres related to modality priors of Multimodal Large Language Models (MLLM).
 
-Language priors in Multimodal Large Language Models (MLLMs) refer to the inherent biases or preconceptions embedded in the language model component of an MLLM. These priors arise from the text data on which the language model was trained, influencing how the model interprets and generates language in conjunction with other modalities (e.g., images, audio). They can affect the model's predictions, leading to potential biases or expectations about the relationships between different types of data in multimodal contexts.
+Modality priors in multimodal large language models (MLLMs) include visual priors, language priors, etc., which refer to inherent biases or preconceptions embedded in components such as the visual encoder and language model of MLLMs. These priors come from the text data on which visual pre-training and language model training are based, and affect how the model combines other modalities to interpret and generate language. They affect the model's predictions, leading to potential biases or expectations about the relationship between different types of data in a multimodal context.
 
 #### :star: If you find this list useful, welcome to star it!
 
