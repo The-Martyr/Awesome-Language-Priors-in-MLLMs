@@ -22,6 +22,8 @@ Modality priors in multimodal large language models (MLLMs) include visual prior
 
 (16 Oct 2024) [The Curse of Multi-Modalities: Evaluating Hallucinations of Large Multimodal Models across Language, Visual, and Audio](https://arxiv.org/abs/2410.12787)
 
+(30 Sep 2024) [Do Vision-Language Models Really Understand Visual Language?](https://arxiv.org/abs/2410.00193)
+
 (5 Jul 2023) [Reasoning or Reciting? Exploring the Capabilities and Limitations of Language Models Through Counterfactual Tasks](https://arxiv.org/abs/2307.02477)
 
 ### Mitigation
